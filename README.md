@@ -16,4 +16,5 @@ Python · Pandas · Scikit-learn · NumPy · SHAP · FastAPI · Matplotlib · EN
 
 ## Project Structure
 - `*.py` — data pipeline, model training, forecasting, visualisation
-- `outputs/` — visual trend and daily profile graphs (2020–2026)
+- `Price_Predictions_2026` — predictions of prices csv file
+-`Daily_Profile_()_2026` - Actual vs AI detected prices graph
